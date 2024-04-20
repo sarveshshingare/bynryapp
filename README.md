@@ -11,7 +11,7 @@ Redesigned the app UI/UX with backend for authentication which involves validati
 
 1. Download the zip file from GitHub.
 2. Open the project in Visual Studio Code.
-3. On the terminal, enter this command: 
+3. On the terminal, enter this command: flutter pub get
 4. This will install all the necessary dependencies.
 5. Run the app.
 
