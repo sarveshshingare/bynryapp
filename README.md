@@ -14,7 +14,8 @@ Redesigned the app UI/UX with backend for authentication.
 4. This will install all the necessary dependencies.
 5. Run the app.
 
-
+## Screen Shots
+<img src="screenshots/screenshot1.png" alt="Screenshot 1" height="300" />
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You can find the license file [here](LICENSE).
