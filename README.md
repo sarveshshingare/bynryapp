@@ -1,6 +1,6 @@
-# Project Name
+# BynryApp
 
-Brief description of the project.
+redesigned the app UI/UX with backend for authentication .
 
 ## Table of Contents
 
@@ -11,17 +11,11 @@ Brief description of the project.
 
 ## Installation
 
-Describe how to install and set up the project. Include any prerequisites or dependencies required.
+1)download the zip file from github
+2)Open the project in visual studio code 
+3)On terminal enter this command: flutter pub get
+4)this will install all the neccessary dependencies
+5)run the app
 
-## Usage
 
-Provide instructions on how to use the project. Include code examples or screenshots if necessary.
-
-## Contributing
-
-Explain how others can contribute to the project, such as by submitting bug reports, feature requests, or pull requests. Include guidelines for contributing.
-
-## License
-
-Specify the project's license, if applicable. For example, you can use a standard open-source license like MIT or Apache 2.0.
 
