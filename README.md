@@ -1,6 +1,7 @@
 # BynryApp
 
-Redesigned the app UI/UX with backend for authentication.
+Redesigned the app UI/UX with backend for authentication which involves validation and exception handling.
+
 
 ## Table of Contents
 
@@ -15,7 +16,10 @@ Redesigned the app UI/UX with backend for authentication.
 5. Run the app.
 
 ## Screen Shots
-<img src="screenshots/screenshot1.png" alt="Screenshot 1" height="300" />
+<img src="screenshots/s1.png" alt="Screenshot 1" height="300" />
+<img src="screenshots/s2.png" alt="Screenshot 2" height="300" />
+<img src="screenshots/s3.png" alt="Screenshot 3" height="300" />
+<img src="screenshots/s4.png" alt="Screenshot 4" height="300" />
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You can find the license file [here](LICENSE).
