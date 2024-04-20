@@ -1,16 +1,21 @@
-# bynryapp
+# BynryApp
 
-A new Flutter project.
+Redesigned the app UI/UX with backend for authentication.
 
-## Getting Started
+## Table of Contents
 
-This project is a starting point for a Flutter application.
+- [Installation](#installation)
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Download the zip file from GitHub.
+2. Open the project in Visual Studio Code.
+3. On the terminal, enter this command: 
+4. This will install all the necessary dependencies.
+5. Run the app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screen Shots
+<img src="screenshots/screenshot1.png" alt="Screenshot 1" height="300" />
+## License
+
+This project is licensed under the [MIT License](LICENSE). You can find the license file [here](LICENSE).
