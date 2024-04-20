@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010784892619",
+    "project_id": "bynryapp-659e4",
+    "storage_bucket": "bynryapp-659e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010784892619:android:e2022d67d7f17bade54d4e",
+        "android_client_info": {
+          "package_name": "com.example.bynryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR11qVY1eTU6n3O2cAmsYZ24_1OmJnogc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
